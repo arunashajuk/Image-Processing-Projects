@@ -1,0 +1,22 @@
+Input length 0f 1-D array 1- 7
+Enter elements for array 1
+2
+3
+3
+6
+7
+8
+3
+Input length 0f 1-D array 2- 5
+Enter elements for array 2
+3
+6
+9
+2
+3
+Array 1 =
+[2, 3, 3, 6, 7, 8, 3]
+Array 2 =
+[3, 6, 9, 2, 3]
+The common elements in array 1 and 2 are :
+[2, 3, 6]

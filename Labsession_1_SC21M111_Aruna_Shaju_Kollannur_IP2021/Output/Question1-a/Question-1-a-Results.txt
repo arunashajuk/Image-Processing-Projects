@@ -1,0 +1,20 @@
+Input the row size of Matrix 4
+Input the column size of Matrix 3
+Enter the elements row-wise
+4
+2
+4
+5
+6
+1
+4
+8
+6
+5
+9
+2
+4
+Matrix =
+[[4, 2, 4], [5, 6, 1], [4, 8, 6], [5, 9, 4]]
+The largest element is 9 at row 4 and column 2
+The smallest element is 1 at row 2 and column 3

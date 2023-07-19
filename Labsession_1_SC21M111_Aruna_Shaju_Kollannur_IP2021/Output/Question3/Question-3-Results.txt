@@ -1,0 +1,4 @@
+runfile('C:/Users/Aruna Shaju K/Desktop/Image and Video Processing Lab/Lab1_Question_3.py', wdir='C:/Users/Aruna Shaju K/Desktop/Image and Video Processing Lab')
+The bands of image Cameraman are  ('R', 'G', 'B', 'A')
+The extreme(max and min) of image Cameraman are  ((0, 255), (0, 255), (0, 255), (255, 255))
+The pixel intensity at  (128, 128) are (17, 17, 17, 255)

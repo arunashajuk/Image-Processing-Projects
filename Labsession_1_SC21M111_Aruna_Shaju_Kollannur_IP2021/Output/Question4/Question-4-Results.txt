@@ -1,0 +1,7 @@
+runfile('C:/Users/Aruna Shaju K/Desktop/Image and Video Processing Lab/Lab1_Question_4.py', wdir='C:/Users/Aruna Shaju K/Desktop/Image and Video Processing Lab')
+
+Enter the height of the image to be created
+600
+
+Enter the width of the image to be created
+700
