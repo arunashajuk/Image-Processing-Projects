@@ -1,0 +1,9 @@
+runfile('C:/Users/Aruna Shaju K/Desktop/Image and Video Processing Lab/Lab-2/Lab2_Question_3-b.py', wdir='C:/Users/Aruna Shaju K/Desktop/Image and Video Processing Lab/Lab-2')
+
+Enter the range of pixel intensities for Brightness Slicing
+150
+
+220
+
+Input the Enhancement intensity
+50
